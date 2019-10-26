@@ -4,7 +4,6 @@ import CollectionsOverview from "./../../components/collections-overview/collect
 import CollectionPage from "./../collection/collection.component";
 
 const ShopPage = props => {
-  console.log("ss", props);
   return (
     <div className="shop-page">
       <Route
